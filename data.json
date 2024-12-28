@@ -1,0 +1,77 @@
+{
+    "users": [
+        {
+            "username": "Wala"
+        },
+        {
+            "username": "Hana"
+        },
+        {
+            "username": "Houda"
+        }
+    ],
+    "posts": [
+        {
+            "title": "Intro",
+            "content": "This is the first post of Wala",
+            "posterId": 1
+        },
+        {
+            "title": "Info",
+            "content": "Hana's first post",
+            "posterId": 2
+        },
+        {
+            "title": "Begin",
+            "content": "The first post of Houda",
+            "posterId": 3
+        },
+        {
+            "title": "Second Try",
+            "content": "Second post from Hana",
+            "posterId": 2
+        },
+        {
+            "title": "Again",
+            "content": "Wala's post number 2!",
+            "posterId": 1
+        }
+    ],
+    "comments": [
+        {
+            "text": "Hana's first comment on Intro",
+            "commenterId": 2,
+            "postId": 1
+        },
+        {
+            "text": "Houda's first comment on Intro",
+            "commenterId": 3,
+            "postId": 1
+        },
+        {
+            "text": "Hana's second comment on Intro",
+            "commenterId": 2,
+            "postId": 1
+        },
+        {
+            "text": "Wala commented on her own post",
+            "commenterId": 1,
+            "postId": 1
+        },
+        {
+            "text": "Wala commented on Info",
+            "commenterId": 1,
+            "postId": 2
+        },
+        {
+            "text": "This is the comment of Hana on Begin",
+            "commenterId": 2,
+            "postId": 3
+        },
+        {
+            "text": "Hana commented again on Houda's post Begin",
+            "commenterId": 2,
+            "postId": 3
+        }
+    ]
+}

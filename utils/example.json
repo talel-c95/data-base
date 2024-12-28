@@ -1,0 +1,95 @@
+[
+  {
+    "id": 6,
+    "poster": "Wala",
+    "title": "Here we go again!",
+    "content": "Wala's post number 3 <3 :)",
+    "createdAt": "2022-02-14T08:41:54.000Z",
+    "comments": []
+  },
+  {
+    "id": 1,
+    "poster": "Wala",
+    "title": "Intro",
+    "content": "This is the first post of Wala",
+    "createdAt": "2022-02-11T14:52:19.000Z",
+    "comments": [
+      {
+        "id": 1,
+        "text": "Hana's first comment on Intro",
+        "commenter": "Hana",
+        "createdAt": "2022-02-11T14:52:19.000Z"
+      },
+      {
+        "id": 2,
+        "text": "Houda's first comment on Intro",
+        "commenter": "Houda",
+        "createdAt": "2022-02-11T14:52:19.000Z"
+      },
+      {
+        "id": 3,
+        "text": "Hana's second comment on Intro",
+        "commenter": "Hana",
+        "createdAt": "2022-02-11T14:52:19.000Z"
+      },
+      {
+        "id": 4,
+        "text": "Wala commented on her own post",
+        "commenter": "Wala",
+        "createdAt": "2022-02-11T14:52:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "poster": "Hana",
+    "title": "Info",
+    "content": "Hana's first post",
+    "createdAt": "2022-02-11T14:52:19.000Z",
+    "comments": [
+      {
+        "id": 5,
+        "text": "Wala commented on Info",
+        "commenter": "Wala",
+        "createdAt": "2022-02-11T14:52:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "poster": "Houda",
+    "title": "Begin",
+    "content": "The first post of Houda",
+    "createdAt": "2022-02-11T14:52:19.000Z",
+    "comments": [
+      {
+        "id": 6,
+        "text": "This is the comment of Hana on Begin",
+        "commenter": "Hana",
+        "createdAt": "2022-02-11T14:52:19.000Z"
+      },
+      {
+        "id": 7,
+        "text": "Hana commented again on Houda's post Begin",
+        "commenter": "Hana",
+        "createdAt": "2022-02-11T14:52:19.000Z"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "poster": "Hana",
+    "title": "Second Try",
+    "content": "Second post from Hana",
+    "createdAt": "2022-02-11T14:52:19.000Z",
+    "comments": []
+  },
+  {
+    "id": 5,
+    "poster": "Wala",
+    "title": "Again",
+    "content": "Wala's post number 2!",
+    "createdAt": "2022-02-11T14:52:19.000Z",
+    "comments": []
+  }
+]
